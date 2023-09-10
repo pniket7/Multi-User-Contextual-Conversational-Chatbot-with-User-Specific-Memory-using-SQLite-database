@@ -35,7 +35,7 @@
 - Employs LangChain components, including RetrievalQA, to generate bot responses.
 - Allows users to exit the conversation.
 
-**6. WORKING:**
+**7. WORKING:**
 
 - The script initializes a SQLite database to store user conversations and their histories.
 - Users are prompted to enter their unique user ID.
@@ -43,11 +43,11 @@
 - The conversation history for each user is stored in the SQLite database, maintaining the context of the conversation.
 - Users can exit the conversation by typing 'exit'.
 
-**6. LICENSE:**
+**8. LICENSE:**
 
 - This project is licensed under the MIT LICENSE.
 
-**7. CONTACT INFORMATION:**
+**9. CONTACT INFORMATION:**
 
 For any questions or feedback, please contact:
 
